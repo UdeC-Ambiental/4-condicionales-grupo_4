@@ -1,0 +1,11 @@
+sitio,ph_pH,ph_clasificacion_pH,oxi_oxigeno,oxi_nivel_oxigeno,oxi_riesgo_biologico,ph_clas,diagnostico_final
+Afluente San José (El Rosal),7.9,Neutro,8.3,alto,,basico,normal
+Quebrada Cune (San Francisco),6.0,Alerta_quimica,4.5,bajo,⚠,acido,normal
+Quebrada Honda (Facatativá),6.3,Alerta_quimica,6.2,medio,,acido,normal
+Quebrada Negra (La Vega),7.6,Neutro,7.0,medio,,basico,normal
+Río Bahamón (Sasaima),8.1,Neutro,6.7,medio,,basico,normal
+Río Botello (Madrid),6.8,Neutro,5.9,medio,,acido,normal
+Río Guayuriba (La Mesa),5.9,Alerta_quimica,4.8,bajo,⚠,acido,normal
+Río Subachoque,7.2,Neutro,7.8,medio,,basico,normal
+Río Tobia (Nocaima),7.4,Neutro,5.2,medio,,basico,normal
+Río Villeta,8.7,Alerta_quimica,6.1,medio,,basico,normal
